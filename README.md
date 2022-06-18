@@ -29,3 +29,5 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/agathva/agathva/blob/output/github-contribution-grid-snake.svg)

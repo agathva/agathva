@@ -3,6 +3,8 @@
 ##
 <img align="right" alt="Agatha-pic" height="170" style="border-radius:50px;" src = "https://picrew.me/shareImg/org/202206/338224_UiF4cjSu.png">
 
+-  👩🏽‍💻  Técnica de Informática (Faetec - RJ/BR)
+-  👩🏽‍💻  Cursando Ciência da Computaçao (UERJ - RJ/BR)
 -  🎲  Estudando para Ciência de Dados
 -  🐍  Atualmente estudando Python
 

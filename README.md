@@ -41,19 +41,15 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agathva&show_icons=true&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathva&layout=compact&theme=dark" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agathva&show_icons=true&theme=radical&hide_title=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agathva&layout=compact&theme=radical" />
 
 ---
 
 <h2>💼 Repositórios em Destaque</h2>
 
-- 📁 [Projeto de Análise de Dados com Python e Pandas](https://github.com/agathva/NOME_DO_REPO)
 - 📁 [App de Cadastro de Receitas com React Native](https://github.com/agathva/projeto-bolo-de-pote)
-- 📁 [Dashboard com Gráficos em Matplotlib](https://github.com/agathva/NOME_DO_REPO)
-- 📁 [Interface Gráfica com Tkinter para Gestão de Dados](https://github.com/agathva/NOME_DO_REPO)
 
 ---
 

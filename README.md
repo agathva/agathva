@@ -49,10 +49,7 @@
 
 <h2>💼 Repositórios em Destaque</h2>
 
-- 📁 [Projeto de Análise de Dados com Python e Pandas](https://github.com/agathva/NOME_DO_REPO)
 - 📁 [App de Cadastro de Receitas com React Native](https://github.com/agathva/projeto-bolo-de-pote)
-- 📁 [Dashboard com Gráficos em Matplotlib](https://github.com/agathva/NOME_DO_REPO)
-- 📁 [Interface Gráfica com Tkinter para Gestão de Dados](https://github.com/agathva/NOME_DO_REPO)
 
 ---
 

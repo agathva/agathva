@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <em>🚧 Perfil em constante construção — sempre aprendendo e evoluindo 💪</em>
+  <em>🚧 Perfil em constante construção — sempre aprendendo e evoluindo 🚧</em>
 </p>
